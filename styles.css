@@ -1,0 +1,40 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #275967;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Poppins", sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #f4e6ac;
+}
+
+p {
+  font-size: 2rem;
+  color: #f4e6ac;
+  font-family: "Raleway", sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eb763f;
+  text-align: center;
+  font-size: 2em;
+  font-family: "Raleway", sans-serif;
+}
